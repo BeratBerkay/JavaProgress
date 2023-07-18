@@ -1,3 +1,6 @@
+// https://replit.com/@BeratBerkay1/1#Guess.java
+
+
 import java.util.Scanner;
 
 public class Guess {
